@@ -5,7 +5,7 @@ const AllTaskPage = () => {
   return (
     <>
       
-      <div className='grid gap-4 [grid-template-columns:repeat(auto-fit,minmax(300px,1fr))]'>
+      <div className='grid gap-4 [grid-template-columns:repeat(auto-fit,minmax(400px,1fr))]'>
         <AllUsersTasksList />
       </div>
     
